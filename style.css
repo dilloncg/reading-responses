@@ -1,0 +1,19 @@
+body{
+  background-image: url("webbackground.jpg");
+}
+
+img{
+  max-width: 100%;
+}
+
+p{
+  font: 90px helvetica;
+  font-style: oblique;
+  text-align: center;
+  color: white;
+  background: rgb(250, 100, 0);
+  margin: 60px 200px;
+  border-radius: 30px;
+  border: 5px solid;
+  padding: 20px;
+}
