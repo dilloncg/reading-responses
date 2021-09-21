@@ -20,6 +20,8 @@ h1{
 
 ul{
   font: 40px helvetica;
+  list-style: none;
   text-align: center;
   color: white;
+  text-decoration-line: none;z
 }
