@@ -4,6 +4,7 @@ body{
 
 img{
   max-width: 100%;
+  image-orientation: center;
 }
 
 h1{
@@ -24,7 +25,7 @@ ul{
   text-align: center;
   color: white;
   text-decoration-line: none;
-  margin: 40px 700px;
+  margin: 40px 200px;
   border: 2px solid;
   border-radius: 10px;
   padding: 10px;
