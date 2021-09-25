@@ -1,5 +1,6 @@
 body{
   background-image: url("webbackground.jpg");
+  background-size: cover;
 }
 
 img{
@@ -31,3 +32,25 @@ ul{
   padding: 10px;
   background: rgba(230, 50, 90, 0.8)
 }
+
+a{
+  font: 45px helvetica;
+  color: white;
+  text-align: center;
+  text-decoration-line: none;
+  border: 2px solid;
+  border-radius: 10px;
+  padding: 10px;
+  background: rgba(230, 50, 90, 0.8)
+}
+
+h2{
+  text-align: center;
+}
+
+<!--
+a:hover
+{
+  background-color: white;
+}
+//-->
